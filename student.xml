@@ -1,0 +1,29 @@
+<students>
+	<students>
+		<slno>SL NO : 23</slno>
+		<name>Name : John </name>
+		<admissiondate>
+			<day>1</day>
+			<month>6</month>
+			<year>2002</year>
+		</admissiondate>
+	</students>
+	<students>
+		<slno>SL NO : 23</slno>
+		<name>Name : John </name>
+		<admissiondate>
+			<day>1</day>
+			<month>6</month>
+			<year>2002</year>
+		</admissiondate>
+	</students>
+	<students>
+		<slno>SL NO : 23</slno>
+		<name>Name : John </name>
+		<admissiondate>
+			<day>1</day>
+			<month>6</month>
+			<year>2002</year>
+		</admissiondate>
+	</students>
+</student>

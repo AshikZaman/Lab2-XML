@@ -1,0 +1,28 @@
+<product>
+	<product>
+		<id>ID : 11</id>
+		<name>Name : Samaung</name>
+		<unitprice>Unit Price : 35000</unitprice>
+		<stock>Stock : 50</stock>
+		<status>Status : 1</status>
+	</products>
+		
+		
+	<product>	
+		<id>ID :20</id>
+		<name>Name : HTC</name>
+		<unitprice>Unit Price : 63000</unitprice>
+		<stock>Stock : 35</stock>
+		<status>Status : 0</status>
+	</products>
+		
+	<product>
+		<id>ID : 23</id>
+		<name>Name : Nokia</name>
+		<unitprice>Unit Price : 25100</unitprice>
+		<stock>Stock : 100</stock>
+		<status>Status : 1</status>
+	</products>
+</products>
+
+
